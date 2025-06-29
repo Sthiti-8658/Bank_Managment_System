@@ -11,7 +11,7 @@ This is a simple **Bank Management System** built using **pure Java**, focusing 
 - Deposit and Withdraw funds
 - View current balance
 - Mini statement (transaction history)
-//- (Optional) Save users and transactions to PostgreSQL .this feature is added
+//- (Optional) Save users and transactions to PostgreSQL .this feature is not added now
 
 ---
 
